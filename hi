@@ -1,0 +1,3 @@
+a="hi"
+b="hello"
+echo ${a} $b
